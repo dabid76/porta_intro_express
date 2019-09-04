@@ -1,0 +1,24 @@
+{
+  "name": "porta_intro_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabid76/porta_intro_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabid76/porta_intro_express/issues"
+  },
+  "homepage": "https://github.com/dabid76/porta_intro_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
